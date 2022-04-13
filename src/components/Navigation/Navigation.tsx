@@ -5,7 +5,7 @@ const Navigation = (): JSX.Element => {
     <nav>
       <ul>
         <li>
-          <Link to="/projects">Projects</Link>
+          <Link to="/challenges">Challenges</Link>
         </li>
       </ul>
     </nav>
